@@ -1,0 +1,12 @@
+zero -- no modulations, with aberrations
+
+GT -- ground truth
+
+OPT -- NeuWS results using opt patterns
+
+UNOPT -- NeuWS results using random patterns
+
+group 14, group 20 is in the main text
+group 16, group 17 is in sup
+
+fps=20
